@@ -1,11 +1,4 @@
-Got it — you want a **README.md** for your **Cake-Shop** GitHub repo.
-I’ll create one that’s professional, well-structured, and eye-catching so it stands out for visitors and ranks better in searches.
 
-Here’s a complete version:
-
----
-
-````markdown
 # 🎂 Cake Shop
 
 A modern and responsive **Cake Shop** web application for browsing, customizing, and ordering delicious cakes online.  
